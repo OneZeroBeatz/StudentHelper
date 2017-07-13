@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelper.DAL", "StudentHelper.DAL\StudentHelper.DAL.csproj", "{1CF18153-2BF9-4810-B27A-5E6345E74E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentHelper.DAL.Contracts", "StudentHelper.DAL.Contracts\StudentHelper.DAL.Contracts.csproj", "{7C05A3DB-4AEA-451A-8EF7-C298921DA7DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF18153-2BF9-4810-B27A-5E6345E74E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF18153-2BF9-4810-B27A-5E6345E74E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF18153-2BF9-4810-B27A-5E6345E74E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF18153-2BF9-4810-B27A-5E6345E74E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C05A3DB-4AEA-451A-8EF7-C298921DA7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C05A3DB-4AEA-451A-8EF7-C298921DA7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C05A3DB-4AEA-451A-8EF7-C298921DA7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C05A3DB-4AEA-451A-8EF7-C298921DA7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
